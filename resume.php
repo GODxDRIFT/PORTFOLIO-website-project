@@ -30,8 +30,7 @@
                     <div class="details-category">
                         <h3>Personal Details</h3><hr>
                         <p>Age: 18</p>
-                        <p>Address: House No. 57/10 Nyadar Enclave,
-                                    Vikas Nagar,Uttam Nagar-110059</p>
+                        <p>Address: my address</p>
                         <p>Location: New Delhi, India</p>
                         <p>Nationality: India</p>
                     </div>
@@ -43,8 +42,8 @@
                     </div>
                     <div class="details-category">
                         <h3>Qualification</h3><hr>
-                        <p>10th CBSE Board 70%</p>
-                        <p>12th CBSE Board 56%</p>
+                        <p>10th CBSE Board </p>
+                        <p>12th CBSE Board </p>
                         <p>Pursuing BCA with Specialization of coud & Cybersecurity <br>at AMITY UNIVERSITY ONLINE</p>
                         
                         <h3>Certifications</h3><hr>
@@ -57,8 +56,8 @@
                     </div>
                     <div class="details-category">
                         <h3>Contact</h3><hr>
-                        <p>Email: lalshakya27@gmail.com</p>
-                        <p>Phone: +91 8750590574</p>
+                        <p>Email: user@gmail.com</p>
+                        <p>Phone: +91 xxxxxxxxxx</p>
                     </div>
                 </div>
             </div>
